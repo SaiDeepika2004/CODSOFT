@@ -9,3 +9,8 @@ Visit the code at : https://colab.research.google.com/github/SaiDeepika2004/CODS
 ### Movies Rating Prediction with Python:
 ![image](https://github.com/user-attachments/assets/fa55be3d-2f6e-4ea7-a27a-e08b3a6ee90a)
 Visit code at: https://colab.research.google.com/github/SaiDeepika2004/CODSOFT/blob/main/Movie_Rating.ipynb
+
+## Task - 3
+### Iris Dataset Detection using Random Forest:
+![image](https://github.com/user-attachments/assets/d9cb7624-06b9-4723-b53c-d95d354efdf8)
+visit code at: https://colab.research.google.com/github/SaiDeepika2004/CODSOFT/blob/main/Iris_Flower_Classification.ipynb
