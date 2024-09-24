@@ -8,4 +8,4 @@ Visit the code at : https://colab.research.google.com/github/SaiDeepika2004/CODS
 ## Task - 2 
 ### Movies Rating Prediction with Python:
 ![image](https://github.com/user-attachments/assets/fa55be3d-2f6e-4ea7-a27a-e08b3a6ee90a)
-Visit code at: 
+Visit code at: https://colab.research.google.com/github/SaiDeepika2004/CODSOFT/blob/main/Movie_Rating.ipynb
